@@ -12,3 +12,6 @@ venv/
 
 # vscode
 .vscode/
+
+# cache
+.cache
